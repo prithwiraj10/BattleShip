@@ -4,7 +4,7 @@ public class Battleship {
 
     public static final int SIZE = 10;
 
-    // 5 classic ships
+    
     public static final int[] SHIP_SIZES = {5, 4, 3, 3, 2};
     public static final int NUM_SHIPS = SHIP_SIZES.length;
 
